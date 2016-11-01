@@ -1,3 +1,6 @@
+# MacOS index file
+.DS_Store
+
 # Logs
 logs
 *.log
